@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Shreya
 
-<!--
-**shreya-2007-hub/shreya-2007-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hackathon Enthusiast | Developer | Learner
 
-Here are some ideas to get you started:
+> My account for Hackotan competitions and other competitions - Building solutions, one hack at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🔭 Currently exploring **Web Development & AI**
+- 🌱 Learning and growing everyday
+- 👯 Open to collaborate on innovative projects
+- 💬 Ask me about Tech, Hackathons, and Ideas
+- 🎯 Goal: To build impactful solutions
+
+### 🛠️ Tech Stack & Skills
+`HTML` `CSS` `JavaScript` `Python` `Git & GitHub` `Problem Solving` `Team Collaboration`
+
+### 🏆 Hackathons & Competitions
+- 🚀 Active participant in Hackotan & various National Hackathons
+- 💡 Passionate about solving real-world problems
+- 🤝 Team Player & Quick Learner
+
+### 📫 Connect With Me
+- GitHub: @shreya-2007-hub
+- Location: Honavar, Karnataka, India 🇮🇳
+
+---
+✨ *"Code, Create, Collaborate - Let's build the future!"* ✨
